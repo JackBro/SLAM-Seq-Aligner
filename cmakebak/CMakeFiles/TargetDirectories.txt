@@ -1,0 +1,1 @@
+/home/john/FSU_project/github/aligner_release/CMakeFiles/bin/FSU_indexer.dir
