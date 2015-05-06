@@ -16,7 +16,7 @@ bin/FSU_indexer 		# for linux
 
 #### Get the latest version of the software
 ```bash
-git clone git@github.com:jhhung/sBWT.git
+git clone git@github.com:jhhung/SLAM-Seq-Aligner.git
 ```
 
 #### Compile the software by typing:
