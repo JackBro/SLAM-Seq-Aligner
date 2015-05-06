@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/john/FSU_project/github/aligner/src/indexer.cpp
+indexerlib.h
+/home/john/FSU_project/github/aligner/src/indexerlib.h
+
+/home/john/FSU_project/github/aligner/src/indexerlib.h
+
