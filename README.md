@@ -37,7 +37,7 @@ FSU_indexer --input_file [genome.fa] --output_file [ouput prefix]
 
 #### Mapping 
 ```bash
-./bin/FSU_searcher --input_file [reads.fq] --index_file [index prefix] --allow_mismatch --thread_number [thread number]
+FSU_searcher --input_file [reads.fq] --index_file [index prefix] --allow_mismatch --thread_number [thread number]
 ```
 
 ##Contact
